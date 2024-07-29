@@ -41,7 +41,7 @@ from django.core.paginator import Paginator
 
 
 print('^^^^ in views ^^^^^^^')
-
+print("testing git push in views")
 #
 # print(usr_course.objects.all())
 # tes_fun.apply_async()
