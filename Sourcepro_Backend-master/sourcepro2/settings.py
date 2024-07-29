@@ -168,7 +168,7 @@ WSGI_APPLICATION = 'sourcepro2.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE':'django.db.backends.postgresql',
-        'NAME':'Sourcepro_New_DB',
+        'NAME':'LMS_UMS_DB',
         'USER':'vivek_aws',
         'PASSWORD':'Am@c1502',
         'HOST':'65.0.154.172',
